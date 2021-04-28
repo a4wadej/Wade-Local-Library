@@ -1,2 +1,2 @@
-# Wade-Local-Library
-Thinkful Local Library Project
+# Local-Library
+ Local Library Thinkful project
